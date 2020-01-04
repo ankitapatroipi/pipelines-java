@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/madhan0431/pro/_apis/build/status/ankitapatroipi.pipelines-java?branchName=master)](https://dev.azure.com/madhan0431/pro/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
